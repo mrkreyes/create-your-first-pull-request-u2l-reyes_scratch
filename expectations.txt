@@ -4,6 +4,3 @@ U2L
 EXPECTATIONS FOR CMSC 100
 
 I anticipate that my experience in CMSC 100 will pose challenges, given my current lack of proficiency in web programming skills. However, I am optimistic that this course will captivate my interest and prove to be valuable for my programming journey, considering the essential role of web development in the field.
-
-I feel you, CMSC 100 might be a bit rough given our limited proficiency in web programming skills. But hey, I'm sure we'll grasp each topic and find it incredibly beneficial for our programming journey.
-
